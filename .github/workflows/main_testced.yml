@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'testced'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8405FED171A144F299704731955F30D5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69CDE81BEEC0461EB86C1E25246171E9 }}
           package: .
